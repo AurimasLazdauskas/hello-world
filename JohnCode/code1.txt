@@ -1,0 +1,2 @@
+If something_happened
+	self_destruct()
