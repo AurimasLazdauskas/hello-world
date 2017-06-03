@@ -1,0 +1,2 @@
+If initialized 
+	do_magic()
