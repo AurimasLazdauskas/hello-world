@@ -1,3 +1,4 @@
 If app_failed()
 	karakiri()
        new code on branch 1
+       new code on branch2
