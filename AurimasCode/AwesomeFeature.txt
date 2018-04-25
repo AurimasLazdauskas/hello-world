@@ -1,2 +1,3 @@
 If initialized 
 	do_magic()
+	feature2
